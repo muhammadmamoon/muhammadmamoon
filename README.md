@@ -30,7 +30,7 @@ I love tech — and tech seems to love me back! 💻❤️
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadmamoon)  
+[![LinkedIn](https://www.linkedin.com/in/muhammad-mamoon-a2460921a)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muhammadmamoon771)  
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-user-id)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muhammadmamoon771@gmail.com)  
